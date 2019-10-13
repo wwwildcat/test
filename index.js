@@ -5,6 +5,6 @@
 		throw err;
 	}
 	else {
-		console.log(date);
+		console.log('date:' + date);
 	}
 })();
