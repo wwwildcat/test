@@ -3,4 +3,7 @@
 	if (date % 2) {
 		throw err;
 	}
+	else {
+		console.log(date);
+	}
 })();
